@@ -7,7 +7,7 @@ Siddharth Singhal and Uday Vig built the UniConn app as a Free app. This SERVICE
 Any attempt to engage in, promote or encourage illegal activity or abusive behavior; to disable, interfere with, reverse engineer, copy, tamper, or circumvent any aspect of UniConn is strictly prohibited. Any such attempts will have legal consequences as a result of intellectual property theft. 
 
 
-This page is used to inform visitors regarding the application policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+This page is used to inform visitors regarding the application policies with the collection, use, and disclosure of Personal Information if anyone decided to use UniConn.
 
 If you choose to use UniConn, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing functionality and improving the Service.
 
